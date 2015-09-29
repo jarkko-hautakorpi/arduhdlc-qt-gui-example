@@ -57,7 +57,7 @@
              </font>
             </property>
             <property name="text">
-             <string notr="true"> </string>
+             <string notr="true"/>
             </property>
             <property name="textFormat">
              <enum>Qt::PlainText</enum>
@@ -90,7 +90,7 @@
              </font>
             </property>
             <property name="text">
-             <string notr="true"> </string>
+             <string notr="true"/>
             </property>
             <property name="textFormat">
              <enum>Qt::PlainText</enum>
@@ -160,8 +160,7 @@
          <enum>Qt::ScrollBarAlwaysOn</enum>
         </property>
         <property name="plainText">
-         <string>0x45
-0x44</string>
+         <string/>
         </property>
        </widget>
       </item>
